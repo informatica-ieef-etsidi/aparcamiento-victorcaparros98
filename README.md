@@ -5,4 +5,6 @@ Se trata de desarrollar un programa informático incremental, de modo que el alu
 
 Como mínimo el alumno debe desarrollar la primera parte de cada una de las prácticas, dejando la parte marcada como Avanzado exclusivamente a los alumnos que van más adelantados.
 
-Los enunciados de las prácticas se han colgando en el Wiki del repositorio.
+Los enunciados de las prácticas se han colgando en el Wiki del repositorio:
+
+https://github.com/informatica-ieef-etsidi/aparcamiento/wiki
